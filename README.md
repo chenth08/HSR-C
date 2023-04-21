@@ -1,5 +1,5 @@
 # HSR-C
-This position data of HSR JR680 robot can be used for robot calibration. We provide HSR-C.xlsx with 2000 sample points of HSR robot, which can be used for the verification of manipulator calibration algorithm. You can read the following papers to understand the principle and methods of manipulator calibration. Here, x, y, z are the coordinates of the position of the robot’s end-effector in the base coordinate system, L is the length of the cable, q1, q2, q3, q4, q5, q6 are the joint angles of the robot.
+This position data of HSR JR680 robot can be used for robot calibration. We provide HSR-C.xlsx with 2000 sample points of HSR robot, which can be used for the verification of manipulator calibration algorithm. You can read the following papers to understand the principle and methods of manipulator calibration. Here,  L is the length of the cable, q1, q2, q3, q4, q5, q6 are the joint angles of the robot.
 
 (1)Z. Li, S. Li, and X. Luo, “An Overview of Calibration Technology of Industrial Robots,” IEEE/CAA J. Autom. Sinica, vol. 8, no. 1, pp. 23-36, Jan. 2021.
 
